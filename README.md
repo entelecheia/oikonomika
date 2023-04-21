@@ -23,8 +23,6 @@
 
 <!-- Links: -->
 
-A Python Library for Economic Analysis
-
 - Documentation: [https://oikonomika.entelecheia.ai][docs-url]
 - GitHub: [https://github.com/entelecheia/oikonomika][repo-url]
 - PyPI: [https://pypi.org/project/oikonomika][pypi-url]

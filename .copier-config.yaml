@@ -1,0 +1,24 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.2.13
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: gh:entelecheia/hyfi-template
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://oikonomika.entelecheia.ai
+email: entelecheia@hotmail.com
+friendly_name: Oikonomika
+github_repo_name: oikonomika
+github_username: entelecheia
+package_name: oikonomika
+project_description: Oikonomika is a powerful and versatile Python library designed
+    for economic analysis, facilitating data-driven decision-making in the fields
+    of economics, finance, and policy-making. The name Oikonomika is derived from
+    the Greek word Οικονομικά, signifying the library's commitment to providing robust
+    tools for studying and understanding economic phenomena.
+project_license: MIT
+project_name: oikonomika
+project_short_description: A Python Library for Economic Analysis
+use_source_code_skeleton: true
+

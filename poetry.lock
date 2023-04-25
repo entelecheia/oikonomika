@@ -1055,14 +1055,14 @@ packaging = "*"
 
 [[package]]
 name = "hyfi"
-version = "0.2.13"
+version = "0.2.14"
 description = "Hydra Fast Interface (Hydra and Pydantic based interface framework)"
 category = "main"
 optional = false
 python-versions = ">=3.8.1,<3.12"
 files = [
-    {file = "hyfi-0.2.13-py3-none-any.whl", hash = "sha256:7fff8052509b7fd37ad8b706b4939a284f390759ba40b865413e872c5ee66a13"},
-    {file = "hyfi-0.2.13.tar.gz", hash = "sha256:a066161ea11c477d7bb3b9b26447ece51280ba7961cb904af2225bc691ea81ac"},
+    {file = "hyfi-0.2.14-py3-none-any.whl", hash = "sha256:9f66d992e6c167d4aaf883192298065e2df0c86f4cf67847a61afbaf008a3283"},
+    {file = "hyfi-0.2.14.tar.gz", hash = "sha256:6339da07594efdde66f7f5d12badf14a6f3b4a0710669f389eec1bb31a95b1de"},
 ]
 
 [package.dependencies]

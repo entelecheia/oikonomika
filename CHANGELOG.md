@@ -1,5 +1,9 @@
 <!--next-version-placeholder-->
 
+## v0.1.2 (2023-04-26)
+### Fix
+* Apply updated template ([`8e66d74`](https://github.com/entelecheia/oikonomika/commit/8e66d74f57b77653ab84a20255e6d678f5fba820))
+
 ## v0.1.1 (2023-04-24)
 ### Fix
 * Apply updated template ([`7dd45d9`](https://github.com/entelecheia/oikonomika/commit/7dd45d9b38d3bda304acd801c81f2a920c458159))

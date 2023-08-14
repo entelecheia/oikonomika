@@ -10,7 +10,7 @@
 <!-- Links: -->
 [hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
 
-[codecov-image]: https://codecov.io/gh/entelecheia/oikonomika/branch/main/graph/badge.svg?token=[REPLACE_ME]
+[codecov-image]: https://codecov.io/gh/entelecheia/oikonomika/branch/main/graph/badge.svg?token=WLF1E3G4CU
 [codecov-url]: https://codecov.io/gh/entelecheia/oikonomika
 [pypi-image]: https://img.shields.io/pypi/v/oikonomika
 [license-image]: https://img.shields.io/github/license/entelecheia/oikonomika

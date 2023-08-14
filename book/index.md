@@ -1,14 +1,17 @@
 # Oikonomika
 
 [![pypi-image]][pypi-url]
-[![license-image]][license-url]
 [![version-image]][release-url]
 [![release-date-image]][release-url]
+[![license-image]][license-url]
 [![jupyter-book-image]][docs-url]
+[![codecov][codecov-image]][codecov-url]
 
 <!-- Links: -->
 [hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
 
+[codecov-image]: https://codecov.io/gh/entelecheia/oikonomika/branch/main/graph/badge.svg?token=[REPLACE_ME]
+[codecov-url]: https://codecov.io/gh/entelecheia/oikonomika
 [pypi-image]: https://img.shields.io/pypi/v/oikonomika
 [license-image]: https://img.shields.io/github/license/entelecheia/oikonomika
 [license-url]: https://github.com/entelecheia/oikonomika/blob/main/LICENSE
@@ -32,8 +35,6 @@ A Python Library for Economic Analysis
 
 Oikonomika is a powerful and versatile Python library designed for economic analysis, facilitating data-driven decision-making in the fields of economics, finance, and policy-making. The name Oikonomika is derived from the Greek word Οικονομικά, signifying the library's commitment to providing robust tools for studying and understanding economic phenomena.
 
-
-
 ## Changelog
 
 See the [CHANGELOG] for more information.
@@ -45,7 +46,6 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [MIT License][license-url].
-
 
 ## Table of Contents
 

@@ -2,3 +2,8 @@
 .tasks-extra.toml
 CHANGELOG.md
 pyproject.toml
+tests/oikonomika/test_cli.py
+src/oikonomika/__cli__.py
+src/oikonomika/__init__.py
+.gitignore
+README.md
